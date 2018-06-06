@@ -40,7 +40,7 @@
 					<!-- One of: server, serverGroup, cluster -->
 					<domain>${cloudhub.domain}</domain>
 					<targetType>server</targetType>
-					<environment>DEVELOPMENT</environment>
+					<environment>DEV</environment>
 				</configuration>
 				<executions>
 					<execution>
